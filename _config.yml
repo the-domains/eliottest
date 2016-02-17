@@ -1,14 +1,28 @@
+name: Eliottest
+favicon: null
 layout_spectrum: 0.3284123
 typography_spectrum: 0.3033691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.02162867
-  lightness: 0.6864192
-  brandStrength: 0.8374392
-  rhythmicContrast: 0.1835939
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: Eliottest
+    - '#18050e'
+    - '#463645'
+    - '#dab08c'
+    - '#d7e6e6'
+    - '#808b7b'
+  brandStrength: 0.8374392
+  lightness: 0.6864192
+  saturation: 0.02162867
+  rhythmicContrast: 0.1835939
+purpose: []
